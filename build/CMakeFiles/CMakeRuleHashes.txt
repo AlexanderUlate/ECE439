@@ -1,2 +1,4 @@
 # Hashes of file build rules.
+d5848d9fa8641b761a33dfcba7c53302 /home/pi/catkin_ws/devel/share/roseus/ros/basic_motors_and_sensors/manifest.l
 73c9b0ae784298f314d66c6ecba0445f CMakeFiles/clean_test_results
+a7466fd1b5d6110ad0f5abae9e3ca95c basic_motors_and_sensors/CMakeFiles/basic_motors_and_sensors_generate_messages_eus
